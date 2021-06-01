@@ -29,13 +29,13 @@ After data cleaning, I got a distribution as following.
 
 ## Model
 
-I used a voting classifier of three classifiers, which are shown in below tree.
+I used a voting classifier based on three classifiers, which are shown in below tree.
 
 ```bash
 Voting classifier
 ├── classifier 1: random forest
 ├── classifier 2: extremely randomized tree
-├── classifier 3: gradient tree boosting
+└── classifier 3: gradient tree boosting
 ```
 
 ## Result
