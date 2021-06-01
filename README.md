@@ -37,3 +37,7 @@ Voting classifier
 ├── classifier 2: extremely randomized tree
 ├── classifier 3: gradient tree boosting
 ```
+
+## Result
+
+My result on [EvaluateOnMe.csv](https://github.com/jhan15/ML_challenge/blob/master/Dataset/EvaluateOnMe.csv) is listed in [106716.txt](https://github.com/jhan15/ML_challenge/blob/master/Result/106716.txt). The true labels are listed in [true_labels.csv](https://github.com/jhan15/ML_challenge/blob/master/Result/true_labels.csv). However, you shouldn't see the file before you get your results. You can refer to [TopSecret.ipynb](https://github.com/jhan15/ML_challenge/blob/master/Result/TopSecret.ipynb) for details about how the dataset is generated. According to the file, the theoretical maximum accuracy you can achieve is 93.85%. I achieved an accuracy of 85.6%.
