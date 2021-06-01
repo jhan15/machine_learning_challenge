@@ -11,15 +11,18 @@ and test your algorithm with [EvaluateOnMe.csv](https://github.com/jhan15/ML_cha
 
 ### Data cleaning
 
-After data cleaning, I got a dataset as following.
+After data cleaning, I got a distribution as following.
 
-| Class         | Samples       | %     |
+| Class         | Samples       |      %|
 | ------------- |:-------------:| -----:|
 | Atsuto        | 295           |   29.7|
 | Bob           | 516           |   51.9|
 | Jörg          | 183           |   18.4|
 
+### Transform data to Gaussian-like
 
+![Picture1](https://user-images.githubusercontent.com/62132206/120284625-ba4a3e00-c2bc-11eb-8e59-916d5b8a5b4e.png)
 
-#### confusion matrix
+### confusion matrix
+
 ![cor](https://user-images.githubusercontent.com/62132206/117428710-9c402680-af26-11eb-97b5-bd7953c1a57e.png)
