@@ -23,6 +23,17 @@ After data cleaning, I got a distribution as following.
 
 ![Picture1](https://user-images.githubusercontent.com/62132206/120284625-ba4a3e00-c2bc-11eb-8e59-916d5b8a5b4e.png)
 
-### confusion matrix
+### Confusion matrix
 
 ![cor](https://user-images.githubusercontent.com/62132206/117428710-9c402680-af26-11eb-97b5-bd7953c1a57e.png)
+
+## Model
+
+I used a voting classifier of three classifiers, which are shown in below tree.
+
+```bash
+Voting classifier
+├── classifier 1: random forest
+├── classifier 2: extremely randomized tree
+├── classifier 3: gradient tree boosting
+```
