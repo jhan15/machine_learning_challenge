@@ -4,7 +4,22 @@ It's a machine learning programming challenge to build and train a classifier gi
 
 ## Dataset
 
-It's a dataset with 3 labels and 10 features. Train with [TrainOnMe.csv](https://github.com/jhan15/ML_challenge/blob/master/Dataset/TrainOnMe.csv), and test your algorithm with [EvaluateOnMe.csv](https://github.com/jhan15/ML_challenge/blob/master/Dataset/EvaluateOnMe.csv), which is unlabeled.
+It's a dataset with 3 labels and 10 features. Train with [TrainOnMe.csv](https://github.com/jhan15/ML_challenge/blob/master/Dataset/TrainOnMe.csv), 
+and test your algorithm with [EvaluateOnMe.csv](https://github.com/jhan15/ML_challenge/blob/master/Dataset/EvaluateOnMe.csv), which is unlabeled.
 
-## confusion matrix
+## Pre-processing
+
+### Data cleaning
+
+After data cleaning, I got a dataset as following.
+
+| Class         | Samples       | %     |
+| ------------- |:-------------:| -----:|
+| Atsuto        | 295           |   29.7|
+| Bob           | 516           |   51.9|
+| Jörg          | 183           |   18.4|
+
+
+
+#### confusion matrix
 ![cor](https://user-images.githubusercontent.com/62132206/117428710-9c402680-af26-11eb-97b5-bd7953c1a57e.png)
