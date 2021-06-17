@@ -23,7 +23,7 @@ After data cleaning, I got a distribution as following.
 
 ![Picture1](https://user-images.githubusercontent.com/62132206/120284625-ba4a3e00-c2bc-11eb-8e59-916d5b8a5b4e.png)
 
-### Confusion matrix
+### Confusion matrix for features
 
 ![cor](https://user-images.githubusercontent.com/62132206/117428710-9c402680-af26-11eb-97b5-bd7953c1a57e.png)
 
